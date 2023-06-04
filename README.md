@@ -1,4 +1,6 @@
 # Draw-Path-Game
+$${\color{red} !!![All \space \space scripts \space in \space Assets/Scripts]!!!}$$
+
 Game, where you need to draw the way for your character to win. 
 But you will face some difficulties: hard levels, enemies and obstacles.
 
